@@ -1,4 +1,4 @@
-from utils.config import Config
+from thermal_sr.utils.config import Config
 from torch.utils.data import Dataset
 from PIL import Image
 import os

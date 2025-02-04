@@ -1,9 +1,9 @@
 import pdb
 import torch
 import torch.nn as nn
-from utils.config import Config
-from modules.dataset import SRDataset
-from modules.simple_model import SimpleModel
+from thermal_sr.utils.config import Config
+from thermal_sr.modules.dataset import SRDataset
+from thermal_sr.modules.simple_model import SimpleModel
 
 config = Config("data")
     

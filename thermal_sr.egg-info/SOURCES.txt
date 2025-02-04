@@ -1,0 +1,7 @@
+README.md
+setup.py
+thermal_sr.egg-info/PKG-INFO
+thermal_sr.egg-info/SOURCES.txt
+thermal_sr.egg-info/dependency_links.txt
+thermal_sr.egg-info/requires.txt
+thermal_sr.egg-info/top_level.txt

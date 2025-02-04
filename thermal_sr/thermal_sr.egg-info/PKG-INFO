@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: thermal-sr
+Version: 0.1
+Summary: Thermal Image Super Resolution
+Author: X2
+Requires-Python: >=3.7
